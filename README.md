@@ -40,7 +40,7 @@ The project uses the **BME680**, a high-performance environmental sensor capable
 - Atmospheric pressure  
 - Air quality (VOC / gas)  
 
-This makes the **WeatherIoT + BME680** combination ideal for professional environmental monitoring, research, smart agriculture, smart cities and industrial applications.
+This makes the **WeatherIoT + BME680** combination ideal for build a prototype of a professional environmental monitoring, research, smart agriculture, smart cities or industrial application.
 
 ---
 
@@ -64,8 +64,6 @@ The **onboard microSD** enables:
 - reliable long-term data storage;
 - easy offline analysis and data integration.
 
-The example demonstrates a robust and scalable logging approach.
-
 ---
 
 ## Integrated RTC – Accurate timestamps
@@ -75,8 +73,6 @@ The **Real Time Clock (RTC)** ensures:
 - precise timestamps for each data sample;
 - network-independent operation;
 - time continuity during power outages.
-
-This is a key requirement for **scientific, industrial and professional monitoring systems**.
 
 ---
 
