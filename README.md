@@ -1,6 +1,7 @@
 # WeatherIoT Datalogger  
 ### Professional IoT Weather & Environmental Data Logger  
 **Reference Demo Project for WeatherIoT – Klinkon Electronics**
+info@klinkonelectronics.com
 
 ## Overview
 
