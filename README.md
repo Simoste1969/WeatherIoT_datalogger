@@ -93,7 +93,4 @@ The codebase is modular, readable and easy to extend.
 
 ---
 
-## Conclusion
-
-This project demonstrates how the **WeatherIoT board by Klinkon Electronics**, combined with the **BME680**, enables rapid development of a **professional IoT environmental data logger**, fully leveraging integrated hardware features while significantly reducing time-to-market.
 You can order the WeatherIot via mail at info@klinkonelectronics.com
